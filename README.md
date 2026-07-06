@@ -45,7 +45,8 @@ The security of ECC-based systems rests entirely on the **discrete logarithm pro
 Elliptic-Curve-Cryptography/
 │
 ├── README.md
-└── Discrete_Report_ECC.md          # Full report with derivations and references
+├── Discrete_Report_ECC.md          # Full report with derivations and references
+└── Presentation.pdf                 # Slide deck summarizing the report
 ```
 
 ## Skills & Topics
